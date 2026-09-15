@@ -2,6 +2,8 @@
 
 A modern, responsive website for TechFlow Solutions - a web development company specializing in custom websites for small businesses.
 
+[![Deploy to GitHub Pages](https://github.com/Mahibur988/COMPSVIII-Assignment2-Mahi/actions/workflows/deploy.yml/badge.svg)](https://github.com/Mahibur988/COMPSVIII-Assignment2-Mahi/actions/workflows/deploy.yml)
+
 ## Project Structure
 
 ```
