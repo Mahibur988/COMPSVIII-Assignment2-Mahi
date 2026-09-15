@@ -27,4 +27,4 @@ Automated deployment makes the process more reliable because GitHub automaticall
 
 ## What would happen if you pushed code to a different branch (not main)?
 
-If I push code to a different branch, the workflow will not run because the push trigger is only set for the `main` branch. If I make a pull request from that branch to `main`, the workflow will check the changes, but the website will not be deployed until the changes are pushed to `main`.
+If I push code to a different branch, the workflow will not run because the push trigger is only set for the `main` branch. If I make a pull request from that branch to `main`, the workflow will check the changes, but the website will not be deployed until the changes are pushed to `main`.This helps keep the main branch stable and makes sure changes are reviewed before they are added to the website.
