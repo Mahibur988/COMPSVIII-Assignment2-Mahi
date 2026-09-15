@@ -14,7 +14,7 @@ techflow-website/
     └── workflows/
         └── deploy.yml  # GitHub Actions deployment workflow
 ```
-
+This project uses GitHub Actions for automated testing and deployment.
 ## Features
 
 - **Responsive Design**: Works seamlessly across desktop, tablet, and mobile devices
